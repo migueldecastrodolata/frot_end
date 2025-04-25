@@ -1,0 +1,9 @@
+body{
+background-color: gray;
+}
+
+
+button:active{
+    background-color: blue;
+    color: black;
+}
